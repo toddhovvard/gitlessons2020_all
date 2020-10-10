@@ -1,0 +1,3 @@
+[submodule "gitlesson2020_server"]
+	path = gitlesson2020_server
+	url = https://github.com/toddhovvard/gitlesson2020_server
